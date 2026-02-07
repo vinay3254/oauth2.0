@@ -1,0 +1,11 @@
+PKCE
+
+code_verifier
+
+code_challenge
+
+code_challenge in /authorize
+
+/token -> code_verifier
+
+code_verifier -> code_challenge
